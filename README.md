@@ -1,2 +1,1 @@
-# docker-openscad
-Docker | OpenSCAD
+# Docker | OpenSCAD
