@@ -1,6 +1,6 @@
 # Docker | OpenSCAD
 
-**Starling Suite**
+**Starling Studio Suite**
 
 ---
 
